@@ -1,0 +1,22 @@
+{
+  "name": "vehicle-state",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "tap"
+  },
+  "engines": {
+    "node": ">= 12"
+  },
+  "keywords": [],
+  "author": "Tarun Batra <tarun.batra00@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "geolib": "^3.3.1"
+  },
+  "devDependencies": {
+    "tap": "^15.0.9"
+  }
+}
